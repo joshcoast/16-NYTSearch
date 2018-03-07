@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#topBox {
+	padding:20px;
+	text-align: center;
+	font-size: 36px;
+	background: #20315a;
+	color: white;
+	border-radius: 5px;
+}
+
+.card-header {
+	background: #20315a;
+	color: white;
+	margin: 0 -16px 0 -16px;
+}
+
+h2 {
+	color: #20315a;
+}
+
+h5 {
+	color: #20315a
+}
+
+.resultShade {
+	background-color: #8f9ec2;
+	color: #20315a;
+	padding: 10px;
+	margin: 5px 0 0 5px;
+}
